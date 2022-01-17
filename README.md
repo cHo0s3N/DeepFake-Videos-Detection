@@ -13,3 +13,8 @@ After your dataset being renamed and labeled, the first step to go through is to
 ```
 !python ../01-Convert_Videos_to_Frames.py
 ```
+### Cropping the faces from each frame using MTCNN
+Whenever the frames are extracted, we need to extract the face region in each frame, using MTCNN by run the following command:
+```
+!python ../02-Crop_Faces_Using_MTCNN.py
+```
