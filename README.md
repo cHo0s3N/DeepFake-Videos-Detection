@@ -4,4 +4,6 @@
 ## Getting Started
 ### Preparing your dataset
 ### Before you can preprocess your dataset (converting/cropping), you need first to rename the videos in your dataset and create a metadata file for it, so each video is labeled with either "REAL/FAKE" for further processing. To do so you need to run the following command.
-###### !python ../Prepare_Datasets.py  
+```
+!python ../Prepare_Datasets.py  
+```
