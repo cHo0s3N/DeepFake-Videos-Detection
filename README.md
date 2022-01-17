@@ -13,8 +13,13 @@ After your dataset being renamed and labeled, the first step to go through is to
 ```
 !python ../01-Convert_Videos_to_Frames.py
 ```
-### Cropping the faces from each frame using MTCNN
+### Cropping the faces from each frame 
 Whenever the frames are extracted, we need to extract the face region in each frame, using MTCNN by run the following command:
 ```
 !python ../02-Crop_Faces_Using_MTCNN.py
+```
+### Split the dataset
+After converting the frames and do the cropping, the dataset will be ready for the splitting process. From this step, two directories will be created, one contain two sub folders named "real" & "fake", and the second one will contain three sub folders named "train", "val", "test", that will be used in the training process. Use this command to split your dataset:
+```
+!python ../03-Split_the_Dataset.py
 ```
