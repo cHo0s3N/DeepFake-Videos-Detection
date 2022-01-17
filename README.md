@@ -25,3 +25,6 @@ After converting the frames and do the cropping, the dataset will be ready for t
 ```
 ### Step 4 - Train the model
 To start the training process, you will need to the splitted dataset from the previous step, once you have it you may go through these steps respectively and run each block in its own cell in colab, to be easier to trace.
+1. You may copy & paste the content of this file on a cell and run it as the imported libraries used in the training process:
+```
+```
