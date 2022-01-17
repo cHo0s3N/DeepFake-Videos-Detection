@@ -1,6 +1,6 @@
 # DeepFake-Videos-Detection
 ## Describtion
-This work was developed using the Google Colab environment, so, you may change the commands depending on where you're going to run it! 
+This work was developed using the Google Colab environment, so, you may change the format of the commands depending on where you're going to run it! 
 ## Getting Started
 
 ### Preparing your dataset
