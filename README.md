@@ -3,7 +3,8 @@
 ## Describtion
 This work was developed using the Google Colab environment, so, you may change the format of the commands depending on where you're going to run it! 
 ## Getting Started
-
+### A flow chart illustrating the whole process
+![image](https://user-images.githubusercontent.com/52065067/150020271-eb74d75c-4310-4129-930b-ce34c15653d8.png)
 ### Step 0 - Preparing your dataset
 Before you can preprocess your dataset (do converting/cropping), you need first to rename the videos in your dataset and create a metadata file for it, so each video is labeled with either "REAL/FAKE" for further processing. To do so you need to run the following command:
 ```
