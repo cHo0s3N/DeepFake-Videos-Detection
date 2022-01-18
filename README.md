@@ -28,7 +28,7 @@ To start the training process, you will need the splitted dataset from the previ
 ▶️ [Open in Colab](https://colab.research.google.com/drive/1OcuuerwieZQGG2fvrXN5KolNLF5OCr5R#scrollTo=Zy2EuGjQ94sx)
 
 ### Step 5 - Test the model
-To test your trained model, you will need to go through the above steps and split the dataset. **_Important Note_: in step number 3, you may pay attention to the split ration amd make sure that the train and the validation ration specified to .0 and the test for 1, as you only want to do a sample test!** <br/>
+To test your trained model, you will need to go through the above steps and split the dataset. **_Important Note_: in step number 3, you may pay attention to the split ratio and make sure that the train and the validation ratio specified to .0 and the test for 1, since you only want to do a sample test!** <br/>
 To start testing you may run this command:
 ```
 !python ./Only_for_Testing.py
