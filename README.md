@@ -25,7 +25,7 @@ After converting the frames and do the cropping, the dataset will be ready for t
 ```
 ### Step 4 - Train the model
 To start the training process, you will need the splitted dataset from the previous steps, once you have it you may go through these steps respectively and run each block in its own cell in colab, to be easier to trace.<br/>
-▶️ [Open in Colab](https://colab.research.google.com/drive/1OcuuerwieZQGG2fvrXN5KolNLF5OCr5R#scrollTo=Zy2EuGjQ94sx)
+▶️ [Open in Colab](https://drive.google.com/file/d/1D-Mej3S_1MDT-uYWttLb7Xj42RzgAe5x/view?usp=sharing)
 
 ### Step 5 - Test the model
 To test your trained model, you will need to go through the above steps and split the dataset. **_Important Note_: in step number 3, you may pay attention to the split ratio and make sure that the train and the validation ratio specified to .0 and the test for 1, since you only want to do a sample test!** <br/>
