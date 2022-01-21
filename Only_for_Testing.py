@@ -5,6 +5,8 @@ import shutil
 import pandas as pd
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.models import load_model
+from efficientnet.tfkeras import EfficientNetB4 #EfficientNetB1, EfficientNetB2, EfficientNetB3, EfficientNetB4, EfficientNetB5, EfficientNetB6, EfficientNetB7
+
 
 # TensorFlow and tf.keras
 import tensorflow as tf
