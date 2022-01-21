@@ -35,7 +35,7 @@ To start testing you may run this command:
 ```
 !python ./Only_for_Testing.py
 ```
-## Acknowledgement
+## Credits
 ```
 Aaron Chong, Hugo Ng, "DeepFake-Detect," 2021
 ```
