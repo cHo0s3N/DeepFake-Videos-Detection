@@ -41,3 +41,5 @@ Aaron Chong, Hugo Ng, "DeepFake-Detect," 2021
 ```
 Enjoy!😊
 
+## The whole project is to be continued as we will keep training our module in new datasets. We will evaluate the module against big datasets that contain both low quality and high quality videos. 
+
