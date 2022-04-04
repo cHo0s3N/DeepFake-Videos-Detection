@@ -41,4 +41,4 @@ Aaron Chong, Hugo Ng, "DeepFake-Detect," 2021
 ```
 Enjoy!😊
 
-### If any questions, do not hasitate to create an issue!
+### If any questions, do not hesitate to create an issue!
